@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\Build\CMakeFiles\be957ca20de46228b2023aad1e6323f8\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{52C50767-7E83-316A-9F8B-D308B975A97B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

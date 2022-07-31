@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\adler32.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\compress.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\crc32.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\deflate.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\gzclose.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\gzlib.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\gzread.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\gzwrite.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\inflate.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\infback.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\inftrees.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\inffast.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\trees.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\uncompr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\zutil.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\Build\zconf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\zlib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\crc32.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\deflate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\gzguts.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\inffast.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\inffixed.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\inflate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\inftrees.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\trees.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\zutil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\win32\zlib1.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{018D40B4-2806-31BC-91B6-84ECD455B3C8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BD60462C-5BFA-373B-B4A6-E1039D806A82}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

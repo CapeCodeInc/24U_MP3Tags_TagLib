@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\test\example.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\z\source\repos\24U_MP3Tags_TagLib\Id3Extractor\Dependencies\ZLib\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BD60462C-5BFA-373B-B4A6-E1039D806A82}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

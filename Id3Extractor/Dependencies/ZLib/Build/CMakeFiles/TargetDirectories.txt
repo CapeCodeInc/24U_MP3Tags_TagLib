@@ -1,0 +1,8 @@
+C:/Users/z/source/repos/24U_MP3Tags_TagLib/Id3Extractor/Dependencies/ZLib/Build/CMakeFiles/zlib.dir
+C:/Users/z/source/repos/24U_MP3Tags_TagLib/Id3Extractor/Dependencies/ZLib/Build/CMakeFiles/zlibstatic.dir
+C:/Users/z/source/repos/24U_MP3Tags_TagLib/Id3Extractor/Dependencies/ZLib/Build/CMakeFiles/example.dir
+C:/Users/z/source/repos/24U_MP3Tags_TagLib/Id3Extractor/Dependencies/ZLib/Build/CMakeFiles/minigzip.dir
+C:/Users/z/source/repos/24U_MP3Tags_TagLib/Id3Extractor/Dependencies/ZLib/Build/CMakeFiles/RUN_TESTS.dir
+C:/Users/z/source/repos/24U_MP3Tags_TagLib/Id3Extractor/Dependencies/ZLib/Build/CMakeFiles/INSTALL.dir
+C:/Users/z/source/repos/24U_MP3Tags_TagLib/Id3Extractor/Dependencies/ZLib/Build/CMakeFiles/ALL_BUILD.dir
+C:/Users/z/source/repos/24U_MP3Tags_TagLib/Id3Extractor/Dependencies/ZLib/Build/CMakeFiles/ZERO_CHECK.dir
